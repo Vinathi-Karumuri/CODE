@@ -55,31 +55,57 @@ The system is implemented as a **Django web application** integrated with **Mach
 # Project Structure
 CODE/
 ├── manage.py
+
 ├── db.sqlite3
+
 ├── README.md
+
 ├── requirements.txt
+
 ├── SentimentAnalysis/
+
 │   ├── __init__.py
+
 │   ├── settings.py
+
 │   ├── urls.py
+
 │   ├── asgi.py
+
 │   └── wsgi.py
+
 ├── users/
+
 │   ├── migrations/
+
 │   ├── __init__.py
+
 │   ├── models.py
+
 │   ├── views.py
+
 │   ├── urls.py
+
 │   └── admin.py
+
 ├── admins/
+
 │   └── Admin related functionalities
+
 ├── code/
+
 │   └── Machine Learning & NLP logic
+
 ├── assets/
+
 │   └── Static files (CSS, JS, Images)
+
 ├── media/
+
 │   └── Uploaded files
+
 └── venv/
+
     └── Virtual environment
 
 
@@ -141,7 +167,7 @@ http://127.0.0.1:8000/
 -->Product review analysis
 
 
-Developed By
+# Developed By
 
 Vinathi Karumuri
 
