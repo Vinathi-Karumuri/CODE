@@ -56,15 +56,20 @@ The system is implemented as a **Django web application** integrated with **Mach
 CODE/
 
 ├── manage.py
+
 ├── db.sqlite3
+
 ├── README.md
+
 ├── requirements.txt
+
 ├── SentimentAnalysis/
 │   ├── __init__.py
 │   ├── settings.py
 │   ├── urls.py
 │   ├── asgi.py
 │   └── wsgi.py
+
 ├── users/
 │   ├── migrations/
 │   ├── __init__.py
@@ -72,14 +77,19 @@ CODE/
 │   ├── views.py
 │   ├── urls.py
 │   └── admin.py
+
 ├── admins/
 │   └── Admin related functionalities
+
 ├── code/
 │   └── Machine Learning & NLP logic
+
 ├── assets/
 │   └── Static files (CSS, JS, Images)
+
 ├── media/
 │   └── Uploaded files
+
 └── venv/
     └── Virtual environment
 
