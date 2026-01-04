@@ -89,13 +89,16 @@ CODE/
 
 git clone https://github.com/Vinathi-Karumuri/CODE.git
 
+
 2.Navigate to project directory
 
 cd CODE
 
+
 3.Install required packages
 
 pip install -r requirements.txt
+
 
 4.Run migrations
 
@@ -103,9 +106,11 @@ python manage.py makemigrations
 
 python manage.py migrate
 
+
 5.Start the server
 
 python manage.py runserver
+
 
 6.Open browser and visit
 
@@ -139,5 +144,7 @@ http://127.0.0.1:8000/
 Developed By
 
 Vinathi Karumuri
+
 Final Year Project
+
 Sentiment Analysis using Machine Learning
