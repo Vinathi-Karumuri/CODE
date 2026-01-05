@@ -67,37 +67,37 @@ CODE/
 
    └── init.py
 
-  ├└── settings.py
+   └── settings.py
 
-  └── urls.py
+   └── urls.py
 
-  └── views.py
+   └── views.py
 
-  └── wsgi.py
+   └── wsgi.py
 
 ├── users/
 
-  ├──migrations/
+   └── init.py
+
+   └── admin.py
+
+   └── apps.py
+
+   └── forms.py
+
+   └── models.py
+
+   └── views.py
+
+   └── tests.py
+
+   ├──migrations/
     
       └── init.py
 
       └── initial.py
 
       └── userregistrationmodel.py
-
-  └── init.py
-
-  └── admin.py
-
-  └── apps.py
-
-  └── forms.py
-
-  └── models.py
-
-  └── views.py
-
-  └── tests.py
 
 ├── venv/
 
