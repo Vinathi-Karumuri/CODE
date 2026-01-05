@@ -54,44 +54,33 @@ The system is implemented as a **Django web application** integrated with **Mach
 
 # Project Structure
 CODE/
-
 ├── manage.py
-
 ├── db.sqlite3
-
 ├── README.md
-
 ├── requirements.txt
-
 ├── SentimentAnalysis/
-│   ├── __init__.py
-│   ├── settings.py
-│   ├── urls.py
-│   ├── asgi.py
-│   └── wsgi.py
-
+│ ├── init.py
+│ ├── settings.py
+│ ├── urls.py
+│ ├── asgi.py
+│ └── wsgi.py
 ├── users/
-│   ├── migrations/
-│   ├── __init__.py
-│   ├── models.py
-│   ├── views.py
-│   ├── urls.py
-│   └── admin.py
-
+│ ├── migrations/
+│ ├── init.py
+│ ├── models.py
+│ ├── views.py
+│ ├── urls.py
+│ └── admin.py
 ├── admins/
-│   └── Admin related functionalities
-
+│ └── Admin related functionalities
 ├── code/
-│   └── Machine Learning & NLP logic
-
+│ └── Machine Learning & NLP logic
 ├── assets/
-│   └── Static files (CSS, JS, Images)
-
+│ └── Static files (CSS, JS, Images)
 ├── media/
-│   └── Uploaded files
-
+│ └── Uploaded files
 └── venv/
-    └── Virtual environment
+└── Virtual environment
 
 
 # How to Run the Project
