@@ -91,7 +91,7 @@ CODE/
  
      └── tests.py
  
-     └── migrations/
+     ├── migrations/
     
          └── init.py
     
