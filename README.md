@@ -56,59 +56,59 @@ The system is implemented as a **Django web application** integrated with **Mach
 CODE/
 
 ├── admins/
-
+├
 ├── assets/
-
+├
 ├── code/
-
+├
 ├── media/
-
+├
 ├── SentimentAnalysis/
-
-   └── init.py
-
-   └── settings.py
-
-   └── urls.py
-
-   └── views.py
-
-   └── wsgi.py
-
+├
+ ├── init.py
+ ├
+ ├── settings.py
+ ├
+ ├── urls.py
+ ├
+ ├── views.py
+ ├
+ ├── wsgi.py
+ ├
 ├── users/
-
-   └── init.py
-
-   └── admin.py
-
-   └── apps.py
-
-   └── forms.py
-
-   └── models.py
-
-   └── views.py
-
-   └── tests.py
-
-   ├──migrations/
-    
-      └── init.py
-
-      └── initial.py
-
-      └── userregistrationmodel.py
-
+ ├
+ ├── init.py
+ ├
+ ├── admin.py
+ ├
+ ├── apps.py
+ ├
+ ├── forms.py
+ ├
+ ├── models.py
+ ├
+ ├── views.py
+ ├
+ ├── tests.py
+ ├
+ ├── migrations/
+    ├
+    ├── init.py
+    ├
+    ├── initial.py
+    ├
+    ├── userregistrationmodel.py
+    ├
 ├── venv/
-
+├
 ├── db.sqlite3
-
+├
 ├── manage.py
-
+├
 ├── README.md
-
+├
 ├── requirement.txt
-
+├
 ├──  requirements.txt
 
 
