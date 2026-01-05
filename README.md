@@ -65,39 +65,39 @@ CODE/
 
 ├── SentimentAnalysis/
 
- ├── init.py
+     ├── init.py
  
- ├── settings.py
+     ├── settings.py
  
- ├── urls.py
+     ├── urls.py
  
- ├── views.py
+     ├── views.py
  
- ├── wsgi.py
+     ├── wsgi.py
  
 ├── users/
+
+     ├── init.py
  
- ├── init.py
+     ├── admin.py
  
- ├── admin.py
+     ├── apps.py
  
- ├── apps.py
+     ├── forms.py
  
- ├── forms.py
+     ├── models.py
  
- ├── models.py
+     ├── views.py
  
- ├── views.py
+     ├── tests.py
  
- ├── tests.py
- 
- ├── migrations/
+     ├── migrations/
     
-    ├── init.py
+         ├── init.py
     
-    ├── initial.py
+         ├── initial.py
     
-    ├── userregistrationmodel.py
+         ├── userregistrationmodel.py
     
 ├── venv/
 
